@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-I drink three coups of coffe a day
+I drink three coups of coffe a day.
